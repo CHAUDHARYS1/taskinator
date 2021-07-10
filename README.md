@@ -25,5 +25,5 @@ Users be able to create tasks by entering a task name, selecting a type, and cli
 
 ### Website
 
-http://github.com - automatic!
-[GitHub](https://chaudharys1.github.io/taskinator/)
+https://chaudharys1.github.io/taskinator/ - automatic!
+[Taskinator](https://chaudharys1.github.io/taskinator/)
