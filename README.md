@@ -1,4 +1,4 @@
-## Taskinator Web Application
+# Taskinator Web Application
 
 ### Description
 
@@ -12,9 +12,9 @@ Users be able to create tasks by entering a task name, selecting a type, and cli
 - [x] Dynamically create DOM elements.
 - [x] Build a form that captures user's input value and display it to page.
 - [x] Validate the form to address usability concerns.
-- [] Make the tasks item deleteable and editable.
-- [] Move task item based on status to the correct section.
-- [] Save input data using local storage and load them from local storage.
+- [ ] Make the tasks item deleteable and editable.
+- [ ] Move task item based on status to the correct section.
+- [ ] Save input data using local storage and load them from local storage.
 
 ### Built With
 
